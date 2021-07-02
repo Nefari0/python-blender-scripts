@@ -18,7 +18,7 @@ def createMeshFromData(name, origin, verts, edges, faces):
     # Update mesh with new data
     me.update()
 
-C = 8.47799
+C = 8.47799 # Sets x origin.
 
 # verts1 contains all xyz coordinates
 
